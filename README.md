@@ -1,8 +1,18 @@
 ## Olá! Eu sou Micherlon Silva 👋
 
 - 🔭 Hoje trabalho em projetos proprios
-- 🌱 Estudando html, css e java
+- 🌱 Estudando atualmente HTML, CSS e Java
 - 😄 Pronouns: ele/dele
+
+##
+
+<div>
+<a href="https://github.com/micherlong">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=micherlong&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-micherlong&layout=compact&langs_count-16&theme-solarized-light"/>
+</div>
+  
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,16 +20,15 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="goku" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmVxMXRqdHEzeGkyaWR3Zzc1ZTlzeDJwNHIzbG8xOXNtdXZrYnR3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SV0LuYdSMmKEklpZKs/giphy.gif">
 </div>
-<br>
+
+##
+
 <div> 
-  <a href="https://www.youtube.com/@Micherlong" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/micherlonnika/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/micherlong" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/micherlong" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:micherlonoffice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.instagram.com/micherlonnika/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://x.com/MicherlonNika" target="_blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" target="_blank"></a> 
+  <a href = "https://wa.me/5512996687521"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "micherlonoffice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
