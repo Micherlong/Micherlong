@@ -10,20 +10,7 @@ Aqui no GitHub você vai encontrar meus projetos, códigos de estudos e muito da
 
 📌 Em busca da minha primeira oportunidade na área de tecnologia.
 🚀 Sempre aprendendo, testando e criando!
-
-##
-
-<div>  
-<a href="https://github.com/micherlong">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=micherlong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-  
+      
 ##
 
 <img 
@@ -138,6 +125,19 @@ Aqui no GitHub você vai encontrar meus projetos, códigos de estudos e muito da
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br>
+
+##
+
+<div>  
+<a href="https://github.com/micherlong">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=micherlong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micherlong&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+</div>
+<img align="right" alt="programando" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhpYTdpaWVxd2gwY2d4Z3hsa3E2NWtiMm9hYW1reG5nN24xZmFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnS7j9pwnECXLMrI4t/giphy.gif">
 
 ##
 
@@ -155,3 +155,4 @@ Aqui no GitHub você vai encontrar meus projetos, códigos de estudos e muito da
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/micherlong/micherlong/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
