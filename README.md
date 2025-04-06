@@ -1,8 +1,6 @@
 ## Olá! Eu sou Micherlon Silva 👋
 
-- 🔭 Hoje trabalho em projetos proprios
-- 🌱 Estudando atualmente HTML, CSS e Java
-- 😄 Pronouns: ele/dele
+Dev Front-End em formação | Em busca da 1ª oportunidade na área de tecnologia | Projeto autoral: Love Crochê | React | JavaScript | HTML | CSS
 
 ##
 
