@@ -4,10 +4,15 @@ Dev Front-End em formação | Em busca da 1ª oportunidade na área de tecnologi
 
 ##
 
-<div>
+<div>  
 <a href="https://github.com/micherlong">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=micherlong&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=micherlong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </div>
   
 ##
