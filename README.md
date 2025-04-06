@@ -137,7 +137,7 @@ Aqui no GitHub você vai encontrar meus projetos, códigos de estudos e muito da
       height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micherlong&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
-<img align="right" alt="programando" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhpYTdpaWVxd2gwY2d4Z3hsa3E2NWtiMm9hYW1reG5nN24xZmFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnS7j9pwnECXLMrI4t/giphy.gif">
+<img align="right" height="250" alt="programando" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhpYTdpaWVxd2gwY2d4Z3hsa3E2NWtiMm9hYW1reG5nN24xZmFvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnS7j9pwnECXLMrI4t/giphy.gif">
 
 ##
 
