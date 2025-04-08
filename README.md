@@ -1,6 +1,6 @@
 ## Olá! Eu sou Micherlon Silva 👋
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá! Me chamo Micherlon e estou em transição de carreira para a área de Desenvolvimento Web, com foco em Front-End. Iniciei minha jornada estudando lógica de programação, HTML, CSS e JavaScript, e atualmente venho me aprofundando em React e explorando também conceitos de Java.
 
